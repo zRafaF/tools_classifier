@@ -1,0 +1,19 @@
+{
+  "height": 512,
+  "width": 512,
+  "channels": 4,
+  "extension": "png",
+  "num_of_images": 28,
+  "classes": {
+    "0": "calipers",
+    "1": "clamp",
+    "2": "cutting_pliers",
+    "3": "file",
+    "4": "hammer",
+    "5": "measuring_tape",
+    "6": "razor_knife",
+    "7": "scissors",
+    "8": "screw_driver",
+    "9": "wrench"
+  }
+}
