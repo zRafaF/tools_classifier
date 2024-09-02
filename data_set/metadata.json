@@ -4,6 +4,13 @@
   "channels": 4,
   "extension": "png",
   "num_of_images": 28,
+  "camera_type": "A54 Samsung Main camera",
+  "img_sequence": {
+    "01": "original",
+    "02": "logarithmic",
+    "03": "exponential",
+    "04": "mean_filter"
+  },
   "classes": {
     "0": "calipers",
     "1": "clamp",
