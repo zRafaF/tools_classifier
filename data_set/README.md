@@ -6,5 +6,6 @@ O nome dos datasets indicam os seus processamentos, escolha um que se adéque ao
 - `r`: Resized (redimensionado)
 - `a`: Augmented (aumentado)
 - `u`: Unsorted (não classificado)
-- `_png`: Formato PNG
-- `_jpg`: Formato JPG
+- `g`: Grouped (agrupado)
+- `png`: Formato PNG
+- `jpg`: Formato JPG
