@@ -1,0 +1,12 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+calipers:66,65,238::
+clamp:36,44,82::
+cutting_pliers:90,201,252::
+file:131,98,56::
+hammer:128,64,160::
+measuring_tape:199,11,196::
+razor_knife:211,74,197::
+scissors:208,0,0::
+screw_driver:240,167,84::
+wrench:176,96,0::
