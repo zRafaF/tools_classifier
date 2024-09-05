@@ -2,7 +2,7 @@ import os
 import re
 
 # Directory where your images are stored
-directory = "unprocessed_data_set/cropped"
+directory = "data_set/cropped_resized_png"
 
 # Regular expression pattern to match the filenames
 pattern = re.compile(r"^(\d+)-(\d+)-(V\d+)-(W|B)\.png$")
