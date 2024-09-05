@@ -1,0 +1,138 @@
+[
+  {
+    "class": "clamp",
+    "filename": "1-01-V2-W.png",
+    "bbox": [135, 426, 171, 396]
+  },
+  {
+    "class": "clamp",
+    "filename": "1-01-V1-W.png",
+    "bbox": [136, 415, 135, 357]
+  },
+  { "class": "clamp", "filename": "1-01-V1-B.png", "bbox": [86, 380, 77, 324] },
+  {
+    "class": "clamp",
+    "filename": "1-01-V2-B.png",
+    "bbox": [102, 398, 101, 326]
+  },
+  {
+    "class": "wrench",
+    "filename": "9-01-V2-W.png",
+    "bbox": [133, 396, 168, 344]
+  },
+  {
+    "class": "wrench",
+    "filename": "9-01-V2-B.png",
+    "bbox": [130, 427, 232, 311]
+  },
+  {
+    "class": "wrench",
+    "filename": "9-01-V1-B.png",
+    "bbox": [140, 424, 217, 344]
+  },
+  {
+    "class": "wrench",
+    "filename": "9-01-V1-W.png",
+    "bbox": [142, 403, 166, 361]
+  },
+  {
+    "class": "screw_driver",
+    "filename": "8-01-V2-B.png",
+    "bbox": [44, 471, 175, 400]
+  },
+  {
+    "class": "screw_driver",
+    "filename": "8-01-V1-W.png",
+    "bbox": [135, 415, 169, 394]
+  },
+  {
+    "class": "screw_driver",
+    "filename": "8-01-V1-B.png",
+    "bbox": [20, 477, 188, 342]
+  },
+  {
+    "class": "screw_driver",
+    "filename": "8-01-V2-W.png",
+    "bbox": [152, 435, 148, 371]
+  },
+  {
+    "class": "razor_knife",
+    "filename": "6-01-V2-W.png",
+    "bbox": [105, 398, 124, 412]
+  },
+  {
+    "class": "razor_knife",
+    "filename": "6-01-V2-B.png",
+    "bbox": [86, 424, 123, 372]
+  },
+  {
+    "class": "razor_knife",
+    "filename": "6-01-V1-W.png",
+    "bbox": [114, 387, 83, 397]
+  },
+  {
+    "class": "razor_knife",
+    "filename": "6-01-V1-B.png",
+    "bbox": [38, 439, 156, 310]
+  },
+  {
+    "class": "scissors",
+    "filename": "7-01-V2-W.png",
+    "bbox": [84, 388, 81, 401]
+  },
+  {
+    "class": "scissors",
+    "filename": "7-01-V2-B.png",
+    "bbox": [62, 457, 158, 312]
+  },
+  {
+    "class": "scissors",
+    "filename": "7-01-V1-W.png",
+    "bbox": [88, 444, 125, 380]
+  },
+  {
+    "class": "scissors",
+    "filename": "7-01-V1-B.png",
+    "bbox": [75, 462, 180, 350]
+  },
+  {
+    "class": "measuring_tape",
+    "filename": "5-01-V2-W.png",
+    "bbox": [88, 372, 114, 376]
+  },
+  {
+    "class": "measuring_tape",
+    "filename": "5-01-V1-B.png",
+    "bbox": [75, 413, 119, 385]
+  },
+  {
+    "class": "measuring_tape",
+    "filename": "5-01-V1-W.png",
+    "bbox": [73, 385, 131, 429]
+  },
+  {
+    "class": "measuring_tape",
+    "filename": "5-01-V2-B.png",
+    "bbox": [120, 395, 127, 394]
+  },
+  {
+    "class": "cutting_pliers",
+    "filename": "2-01-V2-B.png",
+    "bbox": [124, 404, 136, 338]
+  },
+  {
+    "class": "cutting_pliers",
+    "filename": "2-01-V1-B.png",
+    "bbox": [116, 391, 154, 358]
+  },
+  {
+    "class": "cutting_pliers",
+    "filename": "2-01-V2-W.png",
+    "bbox": [100, 384, 143, 346]
+  },
+  {
+    "class": "cutting_pliers",
+    "filename": "2-01-V1-W.png",
+    "bbox": [83, 375, 135, 330]
+  }
+]
